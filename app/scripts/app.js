@@ -13,7 +13,7 @@ angular
             key: 'kbHcPnT0zVHBHC0rFcfyFg((',
             scope: 'write_access,private_info',
             redirectUri: 'http://emascarinas.github.io/',
-            uriBase: 'stack-epic-flow',
+            uriBase: 'stack-epic-flow/',
             //redirectUri: 'http://localhost:9000/',
             oathUrl: 'https://stackexchange.com/oauth',
             curlUrl: 'http://dunggoanan.com/curl.php',
