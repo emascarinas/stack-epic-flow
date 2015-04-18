@@ -29,7 +29,7 @@ angular.module('epicoverflowApp')
             }
             else {
                 if (undefined === session.getProfile() && null === code) {
-                    var url = config.oathUrl + '?scope=' + config.scope + '&client_id=' + config.clientId + '&redirect_uri=' + config.redirectUri;
+                    var url = config.oathUrl + '?scope=' + config.scope + '&client_id=' + config.clientId + '&redirect_uri=' + config.redirectUri + config.uriBase;
                     window.location.replace(url);
                 }
                 if (null !== code) {
