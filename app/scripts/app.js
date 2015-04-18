@@ -11,7 +11,7 @@ angular
             clientId: '4669',
             clientSecret: 'xSxTseAuN7MJjpmoz8FgrQ((',
             key: 'kbHcPnT0zVHBHC0rFcfyFg((',
-            scope: 'write_access',
+            scope: 'write_access,private_info',
             redirectUri: 'http://emascarinas.github.io/',
             uriBase: 'stack-epic-flow',
             //redirectUri: 'http://localhost:9000/',
