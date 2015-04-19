@@ -1,4 +1,4 @@
-# stack-epic-flow [![Build Status](https://travis-ci.org/emascarinas/stack-epic-flow.svg)](https://travis-ci.org/emascarinas/stack-epic-flow) [![Coverage Status](https://coveralls.io/repos/emascarinas/stack-epic-flow/badge.svg)](https://coveralls.io/r/emascarinas/stack-epic-flow)
+# stack-epic-flow [![Build Status](https://travis-ci.org/emascarinas/stack-epic-flow.svg)](https://travis-ci.org/emascarinas/stack-epic-flow) [![Coverage Status](https://coveralls.io/repos/emascarinas/stack-epic-flow/badge.svg?branch=master)](https://coveralls.io/r/emascarinas/stack-epic-flow?branch=master)
 
 ### Technologies used:
 * AngularJS
