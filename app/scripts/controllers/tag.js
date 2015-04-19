@@ -2,12 +2,6 @@
 angular.module('epicoverflowApp')
         .controller('TagCtrl', function($scope, user, config, util, $timeout) {
             
-            $scope.currentPage = 1;
-            $scope.maxSize = config.pageMaxSize;
-            $scope.itemsPerPage = config.itemsPerPage;
-            $scope.boundaryLinks = true;
-            $scope.rotate = false;
-            
             $scope.fetch = function() {
                 $timeout(function() {
                     fetch();
