@@ -21,27 +21,27 @@ A front end web site using Stack Exchange API to provide a more epic stackoverfl
 When the application starts, a user will authenticate, and view own profile and stats. Able to view and search questions.
 
 #### Home page have the following:
-*Profile Information
-*Badges
-*Timeline of activity including Reputation, Badges, and Responses.
-*A list of favorites.
-*A tag cloud that will bring them directly to a search of open questions on that subject.
+* Profile Information
+* Badges
+* Timeline of activity including Reputation, Badges, and Responses.
+* A list of favorites.
+* A tag cloud that will bring them directly to a search of open questions on that subject.
 
 #### Search page have the following:
-*List of questions with multiple sorting options.
-*Title of question
-*# of votes, answers, views for questions.
-*When question was asked
-*Tags associated with question.
-*Tag cloud of questions in search results.
+* List of questions with multiple sorting options.
+* Title of question
+* # of votes, answers, views for questions.
+* When question was asked
+* Tags associated with question.
+* Tag cloud of questions in search results.
 
 ####Question page have the following:
-*Title
-*Body
-*Comments with # of votes, duration for the Question
-*Answers
-*Comments with # of votes, duration for the Answer
-*User should be able to flag/unflag question as favorite.
+* Title
+* Body
+* Comments with # of votes, duration for the Question
+* Answers
+* Comments with # of votes, duration for the Answer
+* User can flag/unflag question as favorite.
 
 An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=user_id  - you can change to any user_id
 
