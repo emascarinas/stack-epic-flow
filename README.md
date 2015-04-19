@@ -12,7 +12,7 @@
 * Global error handler
 * Paginator
 * Added open questions link for questions with no tag
-* unit, e2e, travis ci, coverall
+* unit, e2e, travis ci, coverall - only had intial test running, will add more soon.
 * grunt build system, npm/bower 
 
 ### About the site
@@ -43,6 +43,6 @@ When the application starts, a user will authenticate, and view own profile and 
 * Comments with # of votes, duration for the Answer
 * User can flag/unflag question as favorite.
 
-An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=user_id  - you can change to any user_id
+An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=4138254  - you can change the id to any user_id
 
 [Check out the deployed app here](http://emascarinas.github.io/stack-epic-flow/)
