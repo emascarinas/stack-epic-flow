@@ -6,7 +6,7 @@
 * Sass
 
 ### Added features:
- * Fully responsive layout
+* Fully responsive layout
 * Can view any profile by providing id
 * Loading indicator
 * Global error handler
