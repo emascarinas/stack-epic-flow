@@ -76,10 +76,10 @@ div.tab-pane {
 
 .bz-footer-logo {
     background: url(#{$imgPath}images/sprites.svg) no-repeat 0px 0px;
-width: 38px;
-height: 50px;
-display: block;
-margin: 0 auto;
+    width: 35px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
 }
 .navbar.navbar-default.navbar-fixed-top {
     border-color: #{$border}; 
@@ -102,7 +102,7 @@ margin: 0 auto;
             position: absolute;
             background: url(#{$imgPath}images/sprites.svg)no-repeat;
             top: -4px;
-            width: 38px;
+            width: 35px;
             left: 17px;
             height: 50px;
         }
