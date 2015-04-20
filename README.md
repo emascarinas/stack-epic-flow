@@ -12,7 +12,9 @@
 * Global error handler
 * Paginator
 * Added open questions link for questions with no tag
-* unit, e2e, travis ci, coverall - only had intial test running, will add more soon.
+* unit test using karma test runner and jasmine with istanbul as code coverage
+* end to end test using protractor and jasmine
+* travis ci and coverall - only had intial test running, will add more soon. Click on badges above to see details.
 * grunt build system, npm/bower 
 
 ### About the site
