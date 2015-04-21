@@ -1,6 +1,6 @@
 # stack-epic-flow [![Build Status](https://travis-ci.org/emascarinas/stack-epic-flow.svg)](https://travis-ci.org/emascarinas/stack-epic-flow) [![Coverage Status](https://coveralls.io/repos/emascarinas/stack-epic-flow/badge.svg?branch=master)](https://coveralls.io/r/emascarinas/stack-epic-flow?branch=master)
 
-Live site: http://emascarinas.github.io/stack-epic-flow/
+Live site: http://emascarinas.github.io/stack-epic-flow/  - authentication needed
 
 An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=4138254  - you can change the id to any user_id
 
