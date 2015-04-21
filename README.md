@@ -2,7 +2,8 @@
 
 Live site: http://emascarinas.github.io/stack-epic-flow/  - authentication needed
 
-An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=4138254  - you can change the id to any user_id
+An impersonate option to view other profile by passing user_id as below.
+http://emascarinas.github.io/stack-epic-flow/#/?id=4138254  - you can change the id to any user_id
 
 ### About the site
 A front end web site using Stack Exchange API to provide a more epic stackoverflow.com user experience.
