@@ -1,5 +1,12 @@
 # stack-epic-flow [![Build Status](https://travis-ci.org/emascarinas/stack-epic-flow.svg)](https://travis-ci.org/emascarinas/stack-epic-flow) [![Coverage Status](https://coveralls.io/repos/emascarinas/stack-epic-flow/badge.svg?branch=master)](https://coveralls.io/r/emascarinas/stack-epic-flow?branch=master)
 
+Live site: http://emascarinas.github.io/stack-epic-flow/
+
+An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=4138254  - you can change the id to any user_id
+
+
+
+
 ### Technologies used:
 * AngularJS
 * Twitter Bootstrap
@@ -44,7 +51,3 @@ When the application starts, a user will authenticate, and view own profile and 
 * Answers
 * Comments with # of votes, duration for the Answer
 * User can flag/unflag question as favorite.
-
-An impersonate option to view other profile by passing user_id as below. http://emascarinas.github.io/stack-epic-flow/#/?id=4138254  - you can change the id to any user_id
-
-[Check out the deployed app here](http://emascarinas.github.io/stack-epic-flow/)
